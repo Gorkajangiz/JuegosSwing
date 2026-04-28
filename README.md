@@ -1,4 +1,4 @@
-<h1 align="center">Juegos en Swing/h1>
+<h1 align="center">Juegos en Swing</h1>
 
 <p align="center">
 Piedra papel o tijera, frío y caliente
